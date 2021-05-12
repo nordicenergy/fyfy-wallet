@@ -6,19 +6,19 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>https://solarwallet.io/</loc>
+  <loc>https://wallet.fyfy.app/</loc>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://solarwallet.io/imprint</loc>
+  <loc>https://wallet.fyfy.app/imprint</loc>
   <priority>0.05</priority>
 </url>
 <url>
-  <loc>https://solarwallet.io/terms</loc>
+  <loc>https://wallet.fyfy.app/terms</loc>
   <priority>0.05</priority>
 </url>
 <url>
-  <loc>https://solarwallet.io/privacy</loc>
+  <loc>https://wallet.fyfy.app/privacy</loc>
   <priority>0.05</priority>
 </url>
 

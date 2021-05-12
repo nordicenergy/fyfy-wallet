@@ -1,4 +1,4 @@
-# Solar Wallet Website
+# FYFY Web Wallet
 
 ## Local development
 
