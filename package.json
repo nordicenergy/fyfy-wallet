@@ -8,13 +8,14 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "ThinkWard.Co",
-    "license": "ISC",
+    "license": "GLP",
     "dependencies": {
-        "gulp": "^4.0.2",
+        "gulp-cli": "^2.3.0",
         "gulp-pug": "^4.0.1",
         "gulp-watch": "^5.0.1"
     },
     "devDependencies": {
+        "gulp": "^4.0.2",
         "gulp-sass": "^4.0.2",
         "node-sass": "^4.12.0"
     }
